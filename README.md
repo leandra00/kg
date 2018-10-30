@@ -20,7 +20,7 @@ If you're using an unspecified system, we'd need to chat.
 
 If you're using windows... don't use windows. :p
 
-# H1 Expected output
+# Expected output
 A console message stating the average cubic weight. Eg:
 ```
 'Average cubic weight is: 41.61kg'
